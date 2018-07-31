@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+
+DebugExtensionInitialize
+DebugExtensionNotify
+DebugExtensionUninitialize
+
+ver
