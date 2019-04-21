@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DebugDiag", "DebugDiag", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{D5A78E14-2343-4232-B2D5-F3E932C2803F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDiagSampleAnalysisRule", "DebugDiagSampleExtn\DebugDiagSampleAnalysisRule.csproj", "{118661AB-DC7E-4D8E-86FB-36D1C2C463BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDiagSampleAnalysisRule", "DebugDiagSampleAnalysisRule\DebugDiagSampleAnalysisRule.csproj", "{118661AB-DC7E-4D8E-86FB-36D1C2C463BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
