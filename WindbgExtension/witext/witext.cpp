@@ -9,7 +9,7 @@
 #include <vector>
 
 #include "windbgctrl.h"
-#include "resource.h"
+
 
 
 HRESULT WINAPI ver2(PDEBUG_CLIENT pDebugClient, PCSTR sArg) {
